@@ -1,0 +1,8 @@
+{
+    "version": "1.0",
+    "files": [
+        "main.py",
+        "wifi.py",
+        "config.py"
+    ]
+}
